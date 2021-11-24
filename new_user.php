@@ -79,13 +79,13 @@
 
                     </div>
                 </div>
-                <!--<div class="form-group">
+                <div class="form-group">
                     <label class="col-sm-2 control-label" for="txt_password">Department Head Mail</label>
                     <div class="col-sm-3">
                         <input type="text" placeholder="Department Head Mail" id="rmail" class="form-control">
 
                     </div>
-                </div>-->
+                </div>
             </div>
 
             <div id="itemdetails"></div>
