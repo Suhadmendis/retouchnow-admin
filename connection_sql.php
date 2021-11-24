@@ -18,7 +18,7 @@ $servername = '162.252.83.203';
 $username = 'quotrolk';
 $password = 'SaGaRa4000';
 $port = 10060;
-$dbname = 'quotrolk_retouchnow';
+$dbname = 'quotrolk_retouchnowtest';
 
 
 $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
