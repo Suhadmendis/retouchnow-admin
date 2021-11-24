@@ -5,10 +5,10 @@
 // $GLOBALS['password'] = '';
 // $GLOBALS['db'] = 'amttran1_amt';
 
-$GLOBALS['hostname'] = 'localhost';
-$GLOBALS['username'] = 'root';
-$GLOBALS['password'] = '1234';
-$GLOBALS['db'] = 'onz-db';
+$GLOBALS['hostname'] = '162.252.83.203';
+$GLOBALS['username'] = 'quotrolk';
+$GLOBALS['password'] = 'SaGaRa4000';
+$GLOBALS['db'] = 'quotrolk_retouchnow';
 
 
  
