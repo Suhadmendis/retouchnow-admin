@@ -8,7 +8,7 @@
 $GLOBALS['hostname'] = '162.252.83.203';
 $GLOBALS['username'] = 'quotrolk';
 $GLOBALS['password'] = 'SaGaRa4000';
-$GLOBALS['db'] = 'quotrolk_retouchnow';
+$GLOBALS['db'] = 'quotrolk_retouchnowtest';
 
 
  
